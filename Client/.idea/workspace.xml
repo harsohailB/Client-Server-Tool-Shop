@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdae58c1-27a8-4313-93e9-fd17b04a2c2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Notes/eclipse/ClassVSMemberVariablesANDMethods/src/FrontEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notes/eclipse/ClassVSMemberVariablesANDMethods/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notes/eclipse/PolymorphismExample/src/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notes/eclipse/PolymorphismExample/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TermProject/MileStone3 Server/src/Server/ServerController/ServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/ex2PostLab/Geometry/src/Accessible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/eclipse/Fibonacci/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/eclipse/Fibonacci/data2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/eclipse/Fibonacci/data3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/Users/harsohailbrar/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/Users/harsohailbrar/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/Users/harsohailbrar/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/bin/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/bin/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/src/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/src/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/src/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/assignment1/Fibonacci/data3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment1/Fibonacci/~$graphs.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/example_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/out/production/assignment2/FileInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment2/out/production/assignment2/FileInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/out/production/assignment2/FrontEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment2/out/production/assignment2/FrontEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/out/production/assignment2/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment2/out/production/assignment2/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/out/production/assignment2/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/src/FileInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment2/src/FileInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/src/FrontEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment2/src/FrontEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cpsc_319/assignment2/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/assignment2/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/eclipse/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/eclipse/Fibonacci/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/eclipse/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/eclipse/Fibonacci/data2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpsc_319/eclipse/Fibonacci/C:/Users/harso/Google Drive/Engineering/winter_2019/cpsc_319/eclipse/Fibonacci/data3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../econ_203/Notes/Chapter 21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab2/lab2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab2/lab2.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/11-BZEJ8lnL._RC_61s2vg5yOuL.js,21Of0-9HPCL.js,012FVc3131L.js,119KAWlHU6L.js,01JTmZVCmIL.js,01ynJvifvjL.js,51Ez+WLzSYL.js,11AHlQhPRjL.js,016iHgpF74L.js,11aNYFFS5hL.js,116tgw9TSaL.js,21FdX12aTIL.js,01PoLXBDXWL.js,61EJcd7D+HL.js,01mi-J86cyL.js,11BOgvnnntL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/41HBbj7xuVL._RC_711uV7CLtHL.js,61p8aYAZaSL.js,41MSv8-3arL.js,113NkCQYmFL.js,01wBjiz9OvL.js,21YI5xZWAwL.js,318RmEbtv5L.js,51+klsvwgqL.js,31SRTco1WVL.js_.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/41HBbj7xuVL._RC_711uV7CLtHL.js,61p8aYAZaSL.js,41MSv8-3arL.js,113NkCQYmFL.js,01wBjiz9OvL.js,21YI5xZWAwL.js,318RmEbtv5L.js,51+klsvwgqL.js,31SRTco1WVL.js_.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/61XfmMOouxL._RC_01evdoiemkL.css,01K+Ps1DeEL.css,31bAdTWQ3tL.css,11fF1zzJODL.css,11UGC+GXOPL.css,21LK7jaicML.css,11L58Qpo0GL.css,21EuGTxgpoL.css,01Xl9KigtzL.css,01YhS3Cs-hL.css,21GwE3cR-yL.css,019SHZnt8RL.css,01gv-pABIRL.css,21Mne54CsmL.css,11WgRxUdJRL.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/71QU9t89BeL._RC_11BkULGxM7L.css,31z2rY6PyVL.css,210-42NMyML.css,31Jg45b6O1L.css,11G4HxMtMSL.css,31OvHRW+XiL.css,01XHMOHpK1L.css_.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/71QU9t89BeL._RC_11BkULGxM7L.css,31z2rY6PyVL.css,210-42NMyML.css,31Jg45b6O1L.css,11G4HxMtMSL.css,31OvHRW+XiL.css,01XHMOHpK1L.css_.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_1064173_Manual_519x515_1064173_ca_category_flyout_519x515_png_Gateway_ALL_MultiBrand_Launch_TopBrands_KidsApaprelLaunch._CB493959139_.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_1064173_Manual_519x515_1064173_ca_category_flyout_519x515_png_Gateway_ALL_MultiBrand_Launch_TopBrands_KidsApaprelLaunch._CB493959139_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1109125_Amazonschoice_GW_BB_en_440x200_Consumer-Electronics_1109125_ca_consumer_electronics_amazonschoice_gw_bb_440x200_3_jpg._CB497451291_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1109125_Amazonschoice_GW_BB_en_440x200_Consumer-Electronics_1109125_ca_consumer_electronics_amazonschoice_gw_bb_440x200_3_jpg._CB497451291_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1110022_SmartHome_Billboard_440x200_Home_Improvement_1110022_ca_homeimprovement_smarthome_gw_desktop_billboard_440x200-jpg._CB496532617_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1110022_SmartHome_Billboard_440x200_Home_Improvement_1110022_ca_homeimprovement_smarthome_gw_desktop_billboard_440x200-jpg._CB496532617_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1116063_deals_Evergreen_Flyout_519x540_Health-Personal_Care_1116063_ca_health-personal_care_deals_evergreen_flyout_519x540-png._CB477137873_.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1116063_deals_Evergreen_Flyout_519x540_Health-Personal_Care_1116063_ca_health-personal_care_deals_evergreen_flyout_519x540-png._CB477137873_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1116325_NAV_519x540_Coupons-VPC_1116325_ca_coupons_vpc_nav_en_coupons_category_flyout_519x540-png._CB476569786_.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1116325_NAV_519x540_Coupons-VPC_1116325_ca_coupons_vpc_nav_en_coupons_category_flyout_519x540-png._CB476569786_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1146064_GW_Updates_1500x300_Certified_Refurbished_1146064_ca_certified_refurbished_gw_updates_gwhero_1500x300_1540908768_jpg._CB480918972_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1146064_GW_Updates_1500x300_Certified_Refurbished_1146064_ca_certified_refurbished_gw_updates_gwhero_1500x300_1540908768_jpg._CB480918972_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1146909_flyout_updates_519x590_Certified_Refurbished_1146909_ca_certified_refurbished_flyout_updates_519x492_EN_1540901015_png._CB480904775_.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1146909_flyout_updates_519x590_Certified_Refurbished_1146909_ca_certified_refurbished_flyout_updates_519x492_EN_1540901015_png._CB480904775_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1151814_ca_amazon_s_choice_holiday_hero_264x350_Consumer_Electronics_1151814_ca_consumer_electronics_caamazon_schoiceholiday_hero_264x350_1543415171_jpg._CB461109643_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1154875_Traffic_Drivers_CA_Back2Business_DesktopHero_x233_264x350_Consumer_Electronics_1154875_ca_ce_traffic_drivers_desktop_right_rail_264x350_v2_1546008883_jpg._CB459019079_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1154875_Traffic_Drivers_CA_Back2Business_DesktopHero_x233_440x200_Consumer_Electronics_1154875_ca_ce_traffic_drivers_DesktopBillboard_440x200_1545227945_jpg._CB459187357_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1155132_Textbooks_Landing_Page_519x590_Books_1155132_ca_books_textbooks_519x590_en_1546016479_png._CB458766094_.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1155132_Textbooks_Landing_Page_519x590_Books_1155132_ca_books_textbooks_519x590_en_1546016479_png._CB458766094_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1156591_nyny_ilm_billboard_english_440x200_Consumer_Electronics_1156591_ca_consumer_electronics_nynyilmbillboard_english_desktop_billboard_440x200_1547470824_jpg._CB458145322_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1157075_Once_upon_a_Deadpool_campaign_519x590_DVD_1157075_ca_dvd_once_uphon_a_deadpool_flyout_519x590_en_1547048947_png._CB457469535_.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1157075_Once_upon_a_Deadpool_campaign_519x590_DVD_1157075_ca_dvd_once_uphon_a_deadpool_flyout_519x590_en_1547048947_png._CB457469535_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1157841_TheBigGame_Right_Rail_en_264x350_Events_1157841_ca_events_big_game_gw_tall_right_rail_264x350_1x_1547846704_jpg._CB456139937_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/XCM_Manual_1157841_TheBigGame_Right_Rail_en_264x350_Events_1157841_ca_events_big_game_gw_tall_right_rail_264x350_1x_1547846704_jpg._CB456139937_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/{_wh__797,_ww__1440,_sx__0,_sy__0,_ah__250,_aw__300,_top__414,_left__1135,_niv__true,_v__{_p__50,_t__1,_def___iab_},_ptv__4.015,_ttv__3.067}" beforeDir="false" afterPath="$PROJECT_DIR$/../../encm_369/lab3/Amazon.ca_ Low Prices – Fast Shipping – Millions of Items_files/{_wh__797,_ww__1440,_sx__0,_sy__0,_ah__250,_aw__300,_top__414,_left__1135,_niv__true,_v__{_p__50,_t__1,_def___iab_},_ptv__4.015,_ttv__3.067}" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Hamster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/out/production/SimpleInheritance/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes/eclipse/SimpleInheritance/src/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Clock/bin/Clock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Clock/bin/Clock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Drawing/bin/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Drawing/bin/Drawing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Drawing/bin/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Drawing/bin/Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Drawing/bin/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Drawing/bin/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Drawing/bin/Polygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Drawing/bin/Polygon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Marathon/bin/Marathon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Marathon/bin/Marathon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/MultiDimensionalArray/bin/MultiDimensionalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/MultiDimensionalArray/bin/MultiDimensionalArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/RetailStoreProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/RetailStoreProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/SimpleList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/SimpleList.Node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/SimpleList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/out/production/SimpleList/SimpleList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/out/production/SimpleList/SimpleList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SimpleList (1)/src/SimpleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/SinValidator/bin/SinValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/SinValidator/bin/SinValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/lab1InLab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/lab1InLab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Lab3_Harsohail_Brar_PostLab/postLabEx2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Lab3_Harsohail_Brar_PostLab/postLabEx2/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Lab3_Harsohail_Brar_PostLab/postLabEx2/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Lab3_Harsohail_Brar_PostLab/postLabEx2/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/postlab/RetailStoreProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/postlab/RetailStoreProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/postlab1/RetailStoreProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/postlab1/RetailStoreProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/postlab1/RetailStoreProgram/orders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/postlab1/RetailStoreProgram/orders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/postlab1/RetailStoreProgram/out/production/RetailStoreProgram/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/postlab1/RetailStoreProgram/out/production/RetailStoreProgram/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/postlab2/ClassRegistration/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/postlab2/ClassRegistration/src/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/postlab2/ClassRegistration/src/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/postlab2/ClassRegistration/src/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/Geometry/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/Geometry/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/Geometry/out/production/Geometry/Geometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/Geometry/out/production/Geometry/Geometry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/Geometry/out/production/Geometry/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/Geometry/out/production/Geometry/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/Geometry/src/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/Geometry/src/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/Geometry/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/Geometry/src/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/TicTacToe2.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/TicTacToe2.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/~$b4InLab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../math_271/coverpage.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../math_271/coverpage.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../~$troduction ECON 203Gary first para edit lololol.docx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Client/ClientController/ClientController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="57" column="64" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/ClientController/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/ClientController/MainGUIController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7296">
+              <caret line="311" column="4" selection-start-line="311" selection-start-column="4" selection-end-line="333" selection-end-column="5" />
+              <folding>
+                <element signature="e#17463#17464#0" expanded="true" />
+                <element signature="e#17494#17495#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/ClientView/MainView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5064">
+              <caret line="220" column="45" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/ClientView/LoginView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getTable</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/utils/Order.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientView/View.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientController/CustomerGUIController.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientView/CustomerView.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientController/Listeners/BrowseListen.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientController/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientView/LoginView.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientView/MainView.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientController/MainGUIController.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientController/ClientController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Milestone3 Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Milestone3 Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Milestone3 Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Milestone3 Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Milestone3 Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Milestone3 Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Milestone3 Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Milestone3 Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientController" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Milestone3 Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Milestone3 Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Milestone3 Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Milestone3 Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555097586596" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientController">
+    <configuration name="ClientController" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.ClientController.ClientController" />
+      <module name="Milestone3 Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.ClientController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.deploy.ClientContainer" />
+      <module name="Milestone3 Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientController" />
+      <item itemvalue="Application.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdae58c1-27a8-4313-93e9-fd17b04a2c2f" name="Default Changelist" comment="" />
+      <created>1554499382865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554499382865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.061146498" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.19609967" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32866243" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.061146498" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.20151679" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/utils/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientController/GUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientView/View.java" />
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientController/CustomerGUIController.java" />
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientView/CustomerView.java" />
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientController/Listeners/BrowseListen.java" />
+    <entry file="file://$PROJECT_DIR$/src/utils/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientController/ClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="57" column="64" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientController/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientController/MainGUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7296">
+          <caret line="311" column="4" selection-start-line="311" selection-start-column="4" selection-end-line="333" selection-end-column="5" />
+          <folding>
+            <element signature="e#17463#17464#0" expanded="true" />
+            <element signature="e#17494#17495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientView/MainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5064">
+          <caret line="220" column="45" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientView/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Milestone3 Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
